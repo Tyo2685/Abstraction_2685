@@ -1,0 +1,13 @@
+D:\prk10\Abstraction_2685\bin\Debug\netcoreapp3.1\Abstraction_2685.exe
+D:\prk10\Abstraction_2685\bin\Debug\netcoreapp3.1\Abstraction_2685.deps.json
+D:\prk10\Abstraction_2685\bin\Debug\netcoreapp3.1\Abstraction_2685.runtimeconfig.json
+D:\prk10\Abstraction_2685\bin\Debug\netcoreapp3.1\Abstraction_2685.runtimeconfig.dev.json
+D:\prk10\Abstraction_2685\bin\Debug\netcoreapp3.1\Abstraction_2685.dll
+D:\prk10\Abstraction_2685\bin\Debug\netcoreapp3.1\Abstraction_2685.pdb
+D:\prk10\Abstraction_2685\obj\Debug\netcoreapp3.1\Abstraction_2685.csprojAssemblyReference.cache
+D:\prk10\Abstraction_2685\obj\Debug\netcoreapp3.1\Abstraction_2685.csproj.CoreCompileInputs.cache
+D:\prk10\Abstraction_2685\obj\Debug\netcoreapp3.1\Abstraction_2685.AssemblyInfoInputs.cache
+D:\prk10\Abstraction_2685\obj\Debug\netcoreapp3.1\Abstraction_2685.AssemblyInfo.cs
+D:\prk10\Abstraction_2685\obj\Debug\netcoreapp3.1\Abstraction_2685.dll
+D:\prk10\Abstraction_2685\obj\Debug\netcoreapp3.1\Abstraction_2685.pdb
+D:\prk10\Abstraction_2685\obj\Debug\netcoreapp3.1\Abstraction_2685.genruntimeconfig.cache
